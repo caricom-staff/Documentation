@@ -27,9 +27,9 @@
 
 * **Network Services**
 
-  - Active Directory Service
-  - DHCP Service
-  - DNS Service
+  - Active Directory
+  - DHCP
+  - DNS
   - [IPAM][ipam]
   - Network Diagrams
 
