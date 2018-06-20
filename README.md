@@ -2,7 +2,7 @@
 
 # **IIS Documentation**
 
-## **Contents**
+## Contents
 
 - **Backup Services**
 
